@@ -6,6 +6,7 @@ class PaginaUno extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text("Página Uno"),
+        backgroundColor: Colors.blue,
       ),
       body: Container(
         child: Center(

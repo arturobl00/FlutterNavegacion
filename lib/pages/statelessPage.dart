@@ -6,7 +6,7 @@ class Clase1 extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text("Stateless Widget"),
-        backgroundColor: Colors.black,
+        backgroundColor: Colors.red,
       ),
       body: Container(
         child: Center(
